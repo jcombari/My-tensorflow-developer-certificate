@@ -10,3 +10,6 @@ Learn more about convolutions
 You’ve seen how to add a convolutional 2d layer to the top of your neural network in the previous video. If you want to see more detail on how they worked, check out the playlist at [https://bit.ly/2UGa7uH](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF).
 
 Now let’s take a look at adding the pooling, and finishing off the convolutions so you can try them out…
+
+
+https://github.com/jcombari/My-tensorflow-developer-certificate/blob/main/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/week03/img/01_implementing%20pooling%20layers.PNG
