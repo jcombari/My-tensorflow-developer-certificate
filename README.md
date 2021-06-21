@@ -1,5 +1,7 @@
 #  My-tensorflow-developer-certificate
+
 ## Tensorflow-developer
+
 ### The prep for getting a Tensorflow Developer Certificate
 
 * [TensorFlow in Practice Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) from Coursera
